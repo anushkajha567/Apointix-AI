@@ -10,6 +10,29 @@
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](https://github.com/anushkajha567/Apointix-AI/assets/home.png)
+
+### 🏥 Our Specialties
+![Specialties](https://github.com/anushkajha567/Apointix-AI/assets/specialties.png)
+
+### ✅ Why Choose Apointix
+![Why Choose](https://github.com/anushkajha567/Apointix-AI/assets/whychoose.png)
+
+### ℹ️ About Page
+![About](https://github.com/anushkajha567/Apointix-AI/assets/about.png)
+
+### 📞 Contact Page
+![Contact](https://github.com/anushkajha567/Apointix-AI/assets/contact.png)
+
+### 🔐 Login Page
+![Login](https://github.com/anushkajha567/Apointix-AI/assets/login.png)
+
+### 📝 Signup Page
+![Signup](https://github.com/anushkajha567/Apointix-AI/assets/signup.png)
+
 ## 🚀 Features
 
 | Feature | Description |
