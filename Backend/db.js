@@ -3,11 +3,21 @@ import cors from 'cors';
 const app = express();
 import mysql from "mysql2/promise";
 
+const allowedOrigins = [
+    'http://localhost:5173',
+    'http://localhost:3000',
+    'https://varcel-frontend-zswz.vercel.app',
+    process.env.FRONTEND_URL
+];
+
 app.use(cors({
     origin: (origin, callback) => {
-        // Logging origin for debugging 403 errors
         console.log("Request Origin:", origin);
-        callback(null, true);
+        if (!origin || allowedOrigins.includes(origin)) {
+            callback(null, true);
+        } else {
+            callback(new Error('Not allowed by CORS'));
+        }
     },
     credentials: true
 }));
