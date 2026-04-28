@@ -10,7 +10,19 @@
 
 ---
 
-## 🚀 Features
+## � Screenshots
+
+| Home Page | Dashboard | Appointment Booking |
+|---|---|---|
+| ![Home](screenshots/home.png) | ![Dashboard](screenshots/dashboard.png) | ![Booking](screenshots/booking.png) |
+
+| Admin Panel | Doctor Profile | ML Prediction |
+|---|---|---|
+| ![Admin](screenshots/admin.png) | ![Doctor](screenshots/doctor.png) | ![Prediction](screenshots/prediction.png) |
+
+---
+
+## �🚀 Features
 
 | Feature | Description |
 |---|---|
@@ -110,15 +122,15 @@ Apointix/
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/Apointix-AI.git
+git clone https://github.com/anushkajha567/Apointix-AI.git
 cd Apointix-AI
 
 # Install backend dependencies
-cd server
+cd Backend
 npm install
 
 # Install frontend dependencies
-cd ../client
+cd ../Frontend
 npm install
 
 # Set up Python ML environment
@@ -128,27 +140,35 @@ pip install -r requirements.txt
 
 ### Environment Variables
 
-Create a `.env` file in `/server`:
+Create a `.env` file in `/Backend`:
 
 ```env
-DB_HOST=localhost
-DB_USER=your_mysql_user
-DB_PASSWORD=your_mysql_password
-DB_NAME=apointix
-JWT_SECRET=your_jwt_secret
-INSURANCE_API_KEY=your_insurance_api_key
+DB_HOST=mysql-185af5e1-abhay13042003-a07.a.aivencloud.com
+DB_USER=avnadmin
+DB_PASSWORD=AVNS_2g2K3dndYcn4VOgyNvP
+DB_NAME=defaultdb
+DB_PORT=20691
+PORT=5000
+FRONTEND_URL=https://varcel-frontend-zswz.vercel.app
+GEMINI_API_KEY=your_gemini_api_key
+```
+
+Create `.env.local` in `/Frontend`:
+
+```env
+VITE_API_BASE_URL=http://localhost:5000
 ```
 
 ### Run the Application
 
 ```bash
 # Start backend server
-cd server && npm start
+cd Backend && npm start
 
-# Start frontend
-cd client && npm start
+# Start frontend (in another terminal)
+cd Frontend && npm run dev
 
-# Run ML prediction module
+# Run ML prediction module (in another terminal)
 cd ml-module && python predict.py
 ```
 
@@ -196,8 +216,8 @@ cd ml-module && python predict.py
 
 **Anushka Jha**
 - 📧 anushkajha567@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
-- 🐙 [GitHub](https://github.com/YOUR_GITHUB)
+- � [GitHub](https://github.com/anushkajha567)
+- 🚀 [Live Demo](https://varcel-frontend-zswz.vercel.app/)
 
 ---
 
