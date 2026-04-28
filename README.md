@@ -8,6 +8,7 @@
 
 > A full-stack, AI-integrated healthcare platform that streamlines doctor-patient interactions through intelligent appointment scheduling, clinical prediction, insurance connectivity, and real-time video consultations.
 
+
 ---
 
 ## 📸 Screenshots
@@ -182,6 +183,12 @@ cd ml-module && python predict.py
 
 ---
 
+## 🌐 Live Demo
+👉 [https://varcel-frontend-zswz.vercel.app](https://varcel-frontend-zswz.vercel.app)
+
+> AI-driven doctor appointment platform with real-time booking, 
+> insurance API, video consultation & ML prediction.
+
 ## 📊 ML Model Performance
 
 | Metric | Score |
@@ -227,11 +234,6 @@ cd ml-module && python predict.py
 - 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
 - 🐙 [GitHub](https://github.com/YOUR_GITHUB)
 
----
-
-## 📄 Research
-
-This project is being documented as a research paper with IEEE formatting, exploring AI integration in healthcare appointment systems.
 
 ---
 
