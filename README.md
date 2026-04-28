@@ -1,4 +1,4 @@
-# Apointix-AI 🏥
+<img width="1470" height="956" alt="Screenshot 2026-04-29 at 4 38 54 AM" src="https://github.com/user-attachments/assets/69d60feb-8d16-41b8-ae70-e4c1aaa80616" /># Apointix-AI 🏥
 ### AI-Powered Doctor Appointment & Clinical Decision System
 
 ![Tech Stack](https://img.shields.io/badge/Stack-MERN%20%2B%20MySQL-blue)
@@ -13,7 +13,8 @@
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](https://github.com/anushkajha567/Apointix-AI/assets/home.png)
+![Home]![Uploading Screenshot 2026-04-29 at 4.38.54 AM.png…]()
+
 
 ### 🏥 Our Specialties
 ![Specialties](https://github.com/anushkajha567/Apointix-AI/assets/specialties.png)
