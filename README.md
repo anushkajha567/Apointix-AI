@@ -13,30 +13,29 @@
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home]![Uploading Screenshot 2026-04-29 at 4.38.54 AM.png…](<img width="1470" height="956" alt="Screenshot 2026-04-29 at 4 38 54 AM" src="https://github.com/user-attachments/assets/69d60feb-8d16-41b8-ae70-e4c1aaa80616" /># Apointix-AI 🏥)
+(<img width="1470" height="956" alt="Screenshot 2026-04-29 at 4 38 54 AM" src="https://github.com/user-attachments/assets/69d60feb-8d16-41b8-ae70-e4c1aaa80616" /># Apointix-AI 🏥)
 
 
 ### 🏥 Our Specialties
-![Specialties](https://github.com/anushkajha567/Apointix-AI/assets/specialties.png)
 <img width="1470" height="956" alt="Screenshot 2026-04-29 at 4 39 01 AM" src="https://github.com/user-attachments/assets/4fb124d3-c42c-454d-a674-be05459af81a" />
 
 ### ✅ Why Choose Apointix
-![Why Choose](https://github.com/anushkajha567/Apointix-AI/assets/whychoose.png)<img width="1470" height="956" alt="Screenshot 2026-04-29 at 4 39 07 AM" src="https://github.com/user-attachments/assets/b06b2944-5b81-4b18-844b-42f63dfca7de" />
+<img width="1470" height="956" alt="Screenshot 2026-04-29 at 4 39 07 AM" src="https://github.com/user-attachments/assets/b06b2944-5b81-4b18-844b-42f63dfca7de" />
 
 
 ### ℹ️ About Page
-![About](https://github.com/anushkajha567/Apointix-AI/assets/about.png)<img width="1470" height="956" alt="Screenshot 2026-04-29 at 4 39 18 AM" src="https://github.com/user-attachments/assets/d2ece697-e2e2-411a-ac0f-6071ebbd4629" />
+<img width="1470" height="956" alt="Screenshot 2026-04-29 at 4 39 18 AM" src="https://github.com/user-attachments/assets/d2ece697-e2e2-411a-ac0f-6071ebbd4629" />
 
 
 ### 📞 Contact Page
-![Contact](https://github.com/anushkajha567/Apointix-AI/assets/contact.png)<img width="1470" height="956" alt="Screenshot 2026-04-29 at 4 39 23 AM" src="https://github.com/user-attachments/assets/fb00dd28-1025-4bb3-ac7b-a6f1e8cfe7db" />
+<img width="1470" height="956" alt="Screenshot 2026-04-29 at 4 39 23 AM" src="https://github.com/user-attachments/assets/fb00dd28-1025-4bb3-ac7b-a6f1e8cfe7db" />
 
 
 ### 🔐 Login Page
-![Login](https://github.com/anushkajha567/Apointix-AI/assets/login.png<img width="1470" height="956" alt="Screenshot 2026-04-29 at 4 39 28 AM" src="https://github.com/user-attachments/assets/efb47260-3bae-4b13-ac26-270f3ba6b245" />
+<img width="1470" height="956" alt="Screenshot 2026-04-29 at 4 39 28 AM" src="https://github.com/user-attachments/assets/efb47260-3bae-4b13-ac26-270f3ba6b245" />
 
 ### 📝 Signup Page
-![Signup](https://github.com/anushkajha567/Apointix-AI/assets/signup.png)<img width="1470" height="956" alt="Screenshot 2026-04-29 at 4 39 33 AM" src="https://github.com/user-attachments/assets/2d8be925-b8d5-4862-83a1-401b12fb9b51" />
+<img width="1470" height="956" alt="Screenshot 2026-04-29 at 4 39 33 AM" src="https://github.com/user-attachments/assets/2d8be925-b8d5-4862-83a1-401b12fb9b51" />
 
 
 ## 🚀 Features
