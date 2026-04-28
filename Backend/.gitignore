@@ -3,3 +3,12 @@ node_modules
 npm-debug.log
 yarn-error.log
 coverage
+# MySQL credentials
+*.sql
+*.sqlite
+
+# VS Code settings
+.vscode/
+
+# Vercel
+.vercel
