@@ -13,7 +13,7 @@
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-(<img width="1470" height="956" alt="Screenshot 2026-04-29 at 4 38 54 AM" src="https://github.com/user-attachments/assets/69d60feb-8d16-41b8-ae70-e4c1aaa80616" /># Apointix-AI 🏥)
+<img width="1470" height="956" alt="Screenshot 2026-04-29 at 4 38 54 AM" src="https://github.com/user-attachments/assets/69d60feb-8d16-41b8-ae70-e4c1aaa80616" />
 
 
 ### 🏥 Our Specialties
